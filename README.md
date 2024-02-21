@@ -30,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosism&show_icons=true&locale=en" alt="santosism" /></p>
 
-<a href="https://app.daily.dev/santosism"><img src="https://github.com/santosism/santosism/blob/main/devcard.svg" width="400" alt="Ismael Santos's Dev Card"/></a>
-
+<a href="https://app.daily.dev/santosism"><img src="https://api.daily.dev/devcards/v2/RqYOsyqtPF6cMCaUtggoQ.png?type=default&r=d9d" width="356" alt="Ismael Santos's Dev Card"/></a>
